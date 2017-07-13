@@ -8,6 +8,10 @@ http://www.pythonforbeginners.com/basics/getting-user-input-from-the-keyboard
 
 http://www.instructables.com/id/Interface-Python-and-Arduino-with-pySerial/
 
+Author: Felipe Sampaio
+
+Licence: GPL
+
 '''
 
 from time import sleep
@@ -30,4 +34,3 @@ while True:
      if counter == 255:
 
      	counter = 32
-
